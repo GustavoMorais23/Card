@@ -1,0 +1,12 @@
+* {
+    font-family: 'Kumbh Sans', sans-serif; 
+    font-size: 18px;
+}
+
+
+:root {
+    --background-color: hsla(198, 16%, 42%, 0.795);
+    --text-color: hsl(226, 9%, 47%);
+}
+
+
